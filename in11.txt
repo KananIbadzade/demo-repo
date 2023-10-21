@@ -1,0 +1,14 @@
+100 11
+A -1 12345 KleinmanRonald
+A -1 87654 SmithMary
+A -1 54321 BerraYogi
+I 1 32145 RizzutoPhil
+R 2 -1 xxxx
+A -1 67890 MantleMickey
+I 9 89300 KofaxSandy
+I 3 89012 KofaxSandy
+A -1 99887 MarisRoger
+S 3 62109 FordWhitey
+I 0 10200 SkowronMoose
+
+
